@@ -11,7 +11,15 @@
 		- terms
 
 #### 範例
+{ <br>
+&emsp;&emsp;"version": "0.1", <br>
+&emsp;&emsp;"data":[{ <br>
+&emsp;&emsp;&emsp;&emsp;"pinyin":["ㄐㄧㄢˇ","ㄊㄧˇ"], <br>
+&emsp;&emsp;&emsp;&emsp;"word":["簡體","檢體"] <br>
+&emsp;&emsp;&emsp;}] <br>
+}
+
 
 <br>
-最後更新時間 : May 14, 2020 06:55 PM
+最後更新時間 : May 21, 2020 06:55 AM
 
