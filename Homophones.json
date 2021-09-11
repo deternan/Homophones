@@ -1,6 +1,6 @@
 {
-"version": "0.7.1",
-"updated date": "September 06, 2021",
+"version": "0.7.2",
+"updated date": "September 11, 2021",
 "data":[{
 "ㄅ":[{
 "pinyin":["ㄅㄧˇ","ㄉㄧㄢˋ"],
@@ -604,6 +604,9 @@
 },{
 "pinyin":["ㄓㄣ","ㄧㄢˊ"],
 "word":["箴言","真言","真嚴"]
+},{
+"pinyin":["ㄓㄤ","ㄕㄨˋ"],
+"word":["張數","樟樹"]
 },{
 "pinyin":["ㄓㄥˇ","ㄍㄨˇ"],
 "word":["整骨","整股"]
